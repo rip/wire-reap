@@ -1,3 +1,7 @@
-Source code will be released after [@wireapp](https://github.com/wireapp) implements at least one rate limiting technique.
+[Wire](https://wire.com) 
+([wire.com](https://wire.com), [@wireapp](https://github.com/wireapp)) 
+auto-claimer, scanner, swapper, turbo, etc.
+
+(expandable to account generator, checker, cracker, spammer, etc.)
 
 ![gif](wire.gif)
