@@ -16,8 +16,8 @@ import (
 
 var (
 	auth     = "Bearer your_key_here" // edit or leave blank to login (Bearer key)
-	email    = "" // edit
-	password = "" // edit
+	email    = ""                     // edit
+	password = ""                     // edit
 	verbose  bool
 	black    = color.FgBlack.Render
 	blue     = color.FgBlue.Render
