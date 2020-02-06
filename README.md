@@ -5,3 +5,5 @@ auto-claimer, scanner, swapper, turbo, etc.
 (expandable to account generator, checker, cracker, spammer, etc.)
 
 ![gif](wire.gif)
+
+[github.com/rip/go-ghoul](https://github.com/rip/go-ghoul) 
