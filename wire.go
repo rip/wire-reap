@@ -15,7 +15,7 @@ import (
 )
 
 var (
-	auth     = "Bearer your_key_here" // edit or leave blank to login (Bearer key)
+	auth     = "Bearer your_key_here" // edit ("Bearer key") or leave completely blank to login ("")
 	email    = ""                     // edit
 	password = ""                     // edit
 	verbose  bool
